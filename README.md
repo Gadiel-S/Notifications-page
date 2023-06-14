@@ -24,7 +24,7 @@ Usuários devem ser capazes de:
 
 ## Links
 
-- URL do projeto: ()
+- URL do projeto: (https://gadiel-s.github.io/notifications-page/)
 - LinkedIn: (https://www.linkedin.com/in/gadielsouzafrontend/)
 - Github: (https://github.com/Gadiel-S)
 - Portfolio - [Gadiel Souza de Barros](https://gadiel-s.github.io/portfolio/)
